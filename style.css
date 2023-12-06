@@ -317,6 +317,9 @@ html ::-webkit-scrollbar {
     margin-left: 13px;
     margin-top: 30px;
 }
+.space{
+  margin-right: 15px;
+}
 @media screen and (max-width:766px) {
     #contact .container{
         background: white;
